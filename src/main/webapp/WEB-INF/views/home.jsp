@@ -10,7 +10,7 @@
     </head>
     <body>
     	<div align="center">
-	        <h1>Contact List</h1>
+	        <h1>UML Employee Contact List</h1>
 	        <h3><a href="newContact">New Employee Contact</a></h3>
 	        <table border="1">
 	        	<th>No</th>
