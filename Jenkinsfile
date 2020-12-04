@@ -3,7 +3,7 @@ pipeline {
       stages {
         stage('Cloning Git') {
           steps {
-           git branch: '**', credentialsId: 'githublguml', url: 'https://github.com/lguml/employeeapp'
+           git branch: '**', credentialsId: 'githublguml', url: 'https://github.com/lguml/umlemployeeapp'
           }
         }
         stage('Build') {
