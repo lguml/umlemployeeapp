@@ -6,15 +6,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Contact Manager Home</title>
+        <title>UML Employee Contact Manager Home</title>
     </head>
     <body>
     	<div align="center">
 	        <h1>Contact List</h1>
-	        <h3><a href="newContact">New Contact</a></h3>
+	        <h3><a href="newContact">New Employee Contact</a></h3>
 	        <table border="1">
 	        	<th>No</th>
-	        	<th>Name</th>
+	        	<th>Employee Name</th>
 	        	<th>Email</th>
 	        	<th>Address</th>
 	        	<th>Telephone</th>

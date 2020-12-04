@@ -6,16 +6,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>New/Edit Contact</title>
+<title>New/Edit Employee Contact</title>
 </head>
 <body>
 	<div align="center">
-		<h1>New/Edit Contact</h1>
+		<h1>New/Edit Employee Contact</h1>
 		<form:form action="saveContact" method="post" modelAttribute="contact">
 		<table>
 			<form:hidden path="id"/>
 			<tr>
-				<td>Name:</td>
+				<td>Employee Name:</td>
 				<td><form:input path="name" /></td>
 			</tr>
 			<tr>
